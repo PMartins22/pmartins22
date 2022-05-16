@@ -7,7 +7,7 @@ IT student in Luxembourg
 Learing HTML and CSS...
 
 * 🌍  I'm based in Luxembourg
-* 🖥️  See my portfolio at [VALORANT](https://pmartins22.github.io/)
+* 🖥️  See my site at [VALORANT](https://pmartins22.github.io/)
 * ✉️  You can contact me at [pacm\_22@hotmail.com](mailto:pacm_22@hotmail.com)
 * 🧠  I'm learning Python
 
